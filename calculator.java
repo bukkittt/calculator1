@@ -39,7 +39,7 @@ public class calculator
         double quotient = x / y;
         System.out.println(quotient);
         } else if (operator == 69) {
-          System.out.println("Congrats! You found the easter egg!");  
+          System.out.println("Meow ;)");  
         } else {
             System.out.println("Operator Number Invalid!");
             System.exit(0);
